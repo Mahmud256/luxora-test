@@ -125,8 +125,7 @@ This project follows **Page Object Model (POM)**:
 
 **Mahmudul Hasan Sarkar**
 
-* 💼 SQA Engineer (Automation)
-* 💻 Web Scraping | Data Analysis | Testing
+* 🔗 GitHub: https://github.com/Mahmud256
 
 ---
 
